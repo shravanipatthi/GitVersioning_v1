@@ -1,0 +1,1 @@
+# GitVersioning_v1
